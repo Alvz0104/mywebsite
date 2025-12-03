@@ -33,15 +33,18 @@
         <div class="container">
         <h1 class="login" >Login</h1>
 
+<hr>
+<br>
+
         <form method="POST" action="login.php">
             <label class="username">Username:</label>
             <br><input type="text" placeholder="Type here" name="username" required><br><br>
             <label class="password">Password:</label>
-            <br><input type="password" placeholder="Type here" name="password" required><br>
+            <br><input type="password" placeholder="Type here" name="password" required><br><br>
 
-            <h4>No account? <a class="breg" href="register.php">Register</a> </h4> 
+            <button class="btn-click" type="submit">LOGIN</button><br>
 
-            <button class="btn-click" type="submit">LOGIN</button>
+            <h4>Don't have an account? <a class="breg" href="register.php">Register</a> </h4> 
         </form>
     </div>
     </div>

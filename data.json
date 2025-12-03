@@ -22,5 +22,13 @@
         "position": "Back-End Developer",
         "department": "IT",
         "updated_at": "2025-12-03T00:51:51+01:00"
+    },
+    "yezsatajon": {
+        "id": "emp_692fa1c9acb459.10673341",
+        "username": "yezsatajon",
+        "name": "Yezsa Galinato Tajon",
+        "position": "Accountant",
+        "department": "Finance",
+        "updated_at": "2025-12-03T03:34:49+01:00"
     }
 }

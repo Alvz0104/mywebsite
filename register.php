@@ -37,10 +37,11 @@
             <label class="password">Password:</label>
             <br><input type="password" placeholder="Type here" name="password" required> <br><br>
             <label class="email">Email:</label>
-            <br><input type="text" placeholder="Type here" name="email" required> <br>
-            <h4>Already have an account? <a class="breg" href="login.php">Login</a> </h4>
+            <br><input type="text" placeholder="Type here" name="email" required> <br><br>
 
             <button class="btn-click" type="submit">REGISTER</button>
+
+            <h4>Already have an account? <a class="breg" href="login.php">Login</a> </h4>
         </form>
     </div>
 </body>

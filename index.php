@@ -12,7 +12,8 @@
             <h4 id="h4">Hello, Welcome!</h4>
              <h1>Employee Profile System</h1> 
              <p>A secure and organized platform where 
-                you can <br> easily view, update, and manage employee profiles.</p>
+                each user <br> can log in, view, update, and manage thier own <br>
+                employment details.</p>
              <br>
 
      
